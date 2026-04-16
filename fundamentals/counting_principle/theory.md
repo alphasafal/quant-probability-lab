@@ -1,6 +1,6 @@
 # Counting Principle
 
-If experiment A has m outcomes and B has n outcomes, total outcomes = m × n.
+If experiment A has m outcomes and B has n outcomes, total outcomes = m × n.<br>
 Multiplication Principle (General Form):
 If a process consists of r sequential experiments with N1, N2, ..., Nr 
 possible outcomes respectively, then the total number of outcomes is N1 × N2 × ... × Nr.
