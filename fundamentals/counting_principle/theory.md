@@ -1,6 +1,7 @@
 # Counting Principle
 
 If experiment A has m outcomes and B has n outcomes, total outcomes = m × n.
+
 If experiments r that are to be performed are such that the first one may result
 in any of N1 possible outcomes; and if, for each of these N1 possible outcomes,
 there are N2 possible outcomes of the second experiment; and if, for each of
